@@ -9,7 +9,7 @@ This project focuses on **automated classification of retinal diseases** using d
 * `DRUSEN`: Drusen (deposits beneath the retina)
 * `NORMAL`: Healthy retinas
 
-![Sample Retinal Images](retinal_classes/retinal_classes.png)
+![Sample Retinal Images](retinal_classes/retinal_classes.PNG)
 
 The goal of this project is to leverage transfer learning and convolutional neural networks to accurately classify these retinal conditions and provide an easy-to-use web interface for predictions.
 
